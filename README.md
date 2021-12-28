@@ -1,3 +1,6 @@
+# Original repo
+You can check all of my commits in https://github.com/getir-nodejs-bootcamp/getir-nodejs-bootcamp-graduation-project-necocakici
+
 ## AWS Demo
 http://3.12.104.208:8080/api/
 
